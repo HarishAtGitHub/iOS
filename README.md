@@ -3,7 +3,7 @@ iOS
 
 Repository to maintain iOS apps I did
 
-1) Scrum Story points app (Dowload and watch the demo at https://github.com/HarishAtGitHub/Android/blob/master/Scrum%20Estimates/Demo-Video/ScrumCardiOS-demo.mov and then click raw to download)
+1) Scrum Story points app (Dowload and watch the demo at https://github.com/HarishAtGitHub/iOS/blob/master/ScrumCards/Demo-Video/ScrumCardiOS-demo.mov and then click raw to download)
 
 What is the app all about ?
 
