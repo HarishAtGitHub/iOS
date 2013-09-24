@@ -11,4 +11,7 @@ What is the app all about ?
     in a particular Iteration. This makes us get rid of the physical cards.
     
     
+Demo : 
+    ![Story points app](https://raw.github.com/HarishAtGitHub/iOS/master/ScrumCards/Demo-Video/scrumstorypoints.gif)
+    
 
